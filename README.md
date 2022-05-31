@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sophocoles
+- 👀 I’m interested in GIS, video game development, and web development
+- 🌱 I’m currently completing my Informatics degree at Arizona State University (Focus Area: GIS) 
+- 💞️ I’m looking to collaborate on video game development, beginner projects, intermediate projects
+- 📫 How to reach me mnh1997@gmail.com, Instagram: @Sopholocoles
